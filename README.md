@@ -8,7 +8,7 @@ The source code which contains the main function is under the root project on `f
 
 ### Project setup
 
-- First things first, you first need to clone this repository before executing it:
+- First things first, you first need to clone this repository before running it:
 
   - 1. On a terminal, use the command `git clone https://github.com/MateoLeon44/FindSumTuples.git`
   - 2. Open the newly created project on the editor of choice
