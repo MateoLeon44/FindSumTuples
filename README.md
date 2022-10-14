@@ -31,3 +31,5 @@ The source code which contains the main function is under the root project on `f
   - 1. Go to `__tests__/customTests.txt`. Note: The `txt` already has two custom tests, you can either modify them or extend them
   - 2. The custom test receive two arguments, an array (from the given preconditions, this array only receives integers without duplicates) and a target number
   - 3. Write your custom test in the next line (for example in the first case, you should write your sample test in the line `3`)
+
+- NOTE: This project doesn't support error handling on the custom tests. According to this, the custom tests MUST be write appropiately. This could be a `TODO` for the future.
