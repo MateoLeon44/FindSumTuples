@@ -1,5 +1,9 @@
 # FindSumTuples
 ------------
+## Code source
+
+The source code which contains the main functions is under the root project on `findAllSumTuples.ts`
+
 ## How to run the project
 
 ### Project setup
